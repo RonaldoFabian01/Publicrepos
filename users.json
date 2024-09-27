@@ -1,0 +1,17 @@
+[
+  { "id": 1, "nombre": "Javier Gonzales", "genero": "Masculino", "edad": 20, "ubicacion": "-12.0978,-77.0374" },  
+  { "id": 2, "nombre": "Ana Martínez", "genero": "Femenino", "edad": 22, "ubicacion": "-12.0980,-77.0368" },  
+  { "id": 3, "nombre": "Carlos López", "genero": "Masculino", "edad": 25, "ubicacion": "-12.0982,-77.0376" },  
+  { "id": 4, "nombre": "Laura Rodríguez", "genero": "Femenino", "edad": 19, "ubicacion": "-12.0975,-77.0370" },  
+  { "id": 5, "nombre": "Andrés Pérez", "genero": "Masculino", "edad": 30, "ubicacion": "-12.0977,-77.0380" },
+  { "id": 6, "nombre": "Sofía Torres", "genero": "Femenino", "edad": 24, "ubicacion": "-12.0979,-77.0360" },
+  { "id": 7, "nombre": "Miguel Hernández", "genero": "Masculino", "edad": 27, "ubicacion": "-12.0976,-77.0375" },
+  { "id": 8, "nombre": "Valeria Jiménez", "genero": "Femenino", "edad": 21, "ubicacion": "-12.0983,-77.0372" },
+  { "id": 9, "nombre": "Diego Ramírez", "genero": "Masculino", "edad": 23, "ubicacion": "-12.0974,-77.0365" },
+  { "id": 10, "nombre": "Mariana Castro", "genero": "Femenino", "edad": 18, "ubicacion": "-12.0973,-77.0383" },
+  { "id": 11, "nombre": "Felipe Morales", "genero": "Masculino", "edad": 29, "ubicacion": "-12.0981,-77.0379" },
+  { "id": 12, "nombre": "Paula Sánchez", "genero": "Femenino", "edad": 26, "ubicacion": "-12.0984,-77.0362" },
+  { "id": 13, "nombre": "Ricardo Díaz", "genero": "Masculino", "edad": 28, "ubicacion": "-12.0971,-77.0378" },
+  { "id": 14, "nombre": "Camila Ortega", "genero": "Femenino", "edad": 20, "ubicacion": "-12.0972,-77.0385" },
+  { "id": 15, "nombre": "Gabriel Ruiz", "genero": "Masculino", "edad": 31, "ubicacion": "-12.0970,-77.0367" }
+]
